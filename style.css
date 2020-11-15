@@ -1,0 +1,92 @@
+/*{
+    border: solid;
+}*/
+h1 {
+    color: darkblue;
+    font-size:xx-large;
+    font-family: cursive;
+    font-optical-sizing:inherit;
+    }
+
+body{
+    background-color: whitesmoke;
+}
+
+p {
+    color: black;
+    font-size: larger;
+    font-style:italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+h2{
+    font: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 1000;
+    color: black;
+    text-align: center;
+    font-size: 70px;
+    
+}
+
+
+
+a{
+    font-size: larger;
+}
+
+.menu{
+    display: flex;
+
+}
+
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+
+
+}
+
+img{
+    border-radius: 50px;
+    border: solid;
+    border-color: black;
+}
+
+.butterfly{
+    padding: 20px;
+}
+
+.crane{
+    padding: 20px;
+    background-color: white;
+}
+
+.elephant{
+    padding: 20px;
+    background-color: white;
+}
+
+.turtle{
+    padding: 20px;
+
+}
+
+.parrot{
+    padding: 20px;
+    background-color: white;
+}
+
+.chameleon{
+    padding: 20px;
+    background-color: white;
+}
+
+.cat{
+    padding: 20px;
+}
+
+.fish{
+    padding: 20px;
+}
